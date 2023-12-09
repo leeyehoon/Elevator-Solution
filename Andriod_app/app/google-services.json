@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901760723698",
+    "firebase_url": "https://wac-iot-default-rtdb.firebaseio.com",
+    "project_id": "wac-iot",
+    "storage_bucket": "wac-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901760723698:android:de8327ef60cc4e49913e6b",
+        "android_client_info": {
+          "package_name": "com.example.wac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901760723698-fqi1bt04itstlhvjnc6ir2otgtqj3g01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wac",
+            "certificate_hash": "e18f9d2daa58d0ba22d2906afbdf9d91dce27dc0"
+          }
+        },
+        {
+          "client_id": "901760723698-38a1qgkiot2mk9huj7hrckh0uq55l1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcS-iGr2pStLCDrUH3RrxzyA_uUjL54uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901760723698-38a1qgkiot2mk9huj7hrckh0uq55l1jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
